@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My SQLApplication</string>
+    <string name="main_text">Todo List</string>
+    <string name="action_add_new_menu">Add New</string>
+    <string name="action_edit_new_menu">Edit</string>
+    <string name="add_edit_text_hint">Edit</string>
+    <string name="add_edit_button">Edit</string>
+    <string name="add_delete_button">Delete</string>
+</resources>
